@@ -183,5 +183,5 @@ const CreditMessage = styled.div`
 
 const Link = styled.a`
   color: #000;
-  padding-left: 5px;
+  padding-left: 6px;
 `;
